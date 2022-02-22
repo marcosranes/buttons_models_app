@@ -1,2 +1,2 @@
 # buttons_models_app
-Instance of Fontawesone for designing buttons 
+Instance of Fontawesome for designing buttons 
